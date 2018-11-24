@@ -1,0 +1,14 @@
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\bin\Debug\InstagramDenemesi.exe.config
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\bin\Debug\InstagramDenemesi.exe
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\bin\Debug\InstagramDenemesi.pdb
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.Form1.resources
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.Properties.Resources.resources
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.exe
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.pdb
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Samet\source\repos\InstagramDenemesi\InstagramDenemesi\obj\Debug\InstagramDenemesi.csproj.CopyComplete
